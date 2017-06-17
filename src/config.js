@@ -9,4 +9,4 @@ const config = {
 module.exports = config
 npm install --save recastai
 const REQUEST_TOKEN = require('token')
-const recastClient = new recast.Client(config.recast)
+REQUEST_TOKEN= 'fb3477517fe223d5b41c00e97617d153'
