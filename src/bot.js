@@ -12,7 +12,7 @@
  */
 
 const recastai = require('recastai').default
-
+require('./config')
 const replyMessage = require('./message')
 
 // Instantiate Recast.AI SDK
