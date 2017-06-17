@@ -1,12 +1,11 @@
 const config = {
 
 
-  token: 'fb3477517fe223d5b41c00e97617d153',
-  devtoken: 'd7dd1076696c6896034ffe68950a957a',
+  token: 'de65a8bad21da16cec79c79b90f50b17',
+  devtoken: 'af6d5da405f5632669bf990e5d0687f2',
   slug: 'amanneox',
 }
 
 module.exports = config
 npm install --save recastai
 const REQUEST_TOKEN = require('token')
-REQUEST_TOKEN= 'fb3477517fe223d5b41c00e97617d153'
